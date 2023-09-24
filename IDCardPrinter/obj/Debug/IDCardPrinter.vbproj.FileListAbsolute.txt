@@ -1,0 +1,14 @@
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\IDCardPrinter\IDCardPrinter\bin\Debug\IDCardPrinter.exe
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\IDCardPrinter\IDCardPrinter\bin\Debug\IDCardPrinter.pdb
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\IDCardPrinter\IDCardPrinter\bin\Debug\IDCardPrinter.xml
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\IDCardPrinter\IDCardPrinter\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\IDCardPrinter\IDCardPrinter\obj\Debug\IDCardPrinter.frmIDLoader.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\IDCardPrinter\IDCardPrinter\obj\Debug\IDCardPrinter.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\IDCardPrinter\IDCardPrinter\obj\Debug\IDCardPrinter.vbproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\IDCardPrinter\IDCardPrinter\obj\Debug\IDCardPrinter.exe
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\IDCardPrinter\IDCardPrinter\obj\Debug\IDCardPrinter.xml
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\IDCardPrinter\IDCardPrinter\obj\Debug\IDCardPrinter.pdb
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\IDCardPrinter\IDCardPrinter\bin\Debug\IDCardPrinter.exe.manifest
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\IDCardPrinter\IDCardPrinter\bin\Debug\IDCardPrinter.application
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\IDCardPrinter\IDCardPrinter\obj\Debug\IDCardPrinter.exe.manifest
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\IDCardPrinter\IDCardPrinter\obj\Debug\IDCardPrinter.application

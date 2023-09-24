@@ -1,0 +1,17 @@
+C:\Users\Administrator\AppData\Local\Temporary Projects\IDCardPrinter\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Administrator\AppData\Local\Temporary Projects\IDCardPrinter\obj\Release\IDCardPrinter.Resources.resources
+C:\Users\Administrator\AppData\Local\Temporary Projects\IDCardPrinter\obj\Release\IDCardPrinter.vbproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\IDCardPrinter\IDCardPrinter\bin\Release\IDCardPrinter.exe.manifest
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\IDCardPrinter\IDCardPrinter\bin\Release\IDCardPrinter.application
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\IDCardPrinter\IDCardPrinter\bin\Release\IDCardPrinter.exe
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\IDCardPrinter\IDCardPrinter\bin\Release\IDCardPrinter.pdb
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\IDCardPrinter\IDCardPrinter\bin\Release\IDCardPrinter.xml
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\IDCardPrinter\IDCardPrinter\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\IDCardPrinter\IDCardPrinter\obj\Release\IDCardPrinter.frmIDLoader.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\IDCardPrinter\IDCardPrinter\obj\Release\IDCardPrinter.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\IDCardPrinter\IDCardPrinter\obj\Release\IDCardPrinter.vbproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\IDCardPrinter\IDCardPrinter\obj\Release\IDCardPrinter.exe.manifest
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\IDCardPrinter\IDCardPrinter\obj\Release\IDCardPrinter.application
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\IDCardPrinter\IDCardPrinter\obj\Release\IDCardPrinter.exe
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\IDCardPrinter\IDCardPrinter\obj\Release\IDCardPrinter.xml
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\IDCardPrinter\IDCardPrinter\obj\Release\IDCardPrinter.pdb
